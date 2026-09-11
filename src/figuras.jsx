@@ -72,7 +72,7 @@ function Figuras() {
                 Cálculo de Áreas
             </h1>
             <p className="text-center text-muted mb-5">
-                Laboratorio 2 - React Hooks Marlon Loaiza
+                Laboratorio 2 - React Hooks Marlon Loaiza.
             </p>
 
             <div className="row g-4">
